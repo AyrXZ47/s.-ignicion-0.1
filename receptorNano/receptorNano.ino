@@ -2,7 +2,7 @@
 #include <nRF24L01.h>
 #include <RF24.h>
 
-// Pines del nRF24L01+ y el relé
+// Pines del nRF24L01+ y el relé 
 #define CE_PIN 9
 #define CSN_PIN 10
 #define RELAY_PIN 2  // Pin conectado al relé
