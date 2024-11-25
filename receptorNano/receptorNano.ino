@@ -3,7 +3,7 @@
 #include <RF24.h>
 #include <avr/wdt.h>  // Librería para el Watchdog Timer
 
-// Pines del nRF24L01+ y del relé
+// Pines del nRF24L01+ y el relé
 #define CE_PIN 9
 #define CSN_PIN 10
 #define RELAY_PIN 2  // Pin conectado al relé
